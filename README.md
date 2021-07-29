@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, coffee, design, and photography.
 - 🌱 I’m currently learning React, Typescript, and Next.js.
 - 💞️ I’m looking to collaborate on nothing atm (still learning).
-- 📫 How to reach me jae.chee@gmail.com
+- 📫 How to reach me coffeeaje0113@gmail.com
 
 <!---
 jaec0113/jaec0113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
