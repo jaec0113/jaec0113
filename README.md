@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jaec0113
 - 👀 I’m interested in coding, coffee, design, and photography.
 - 🌱 I’m currently learning React, Typescript, and Next.js.
-- 💞️ I’m looking to collaborate on nothing atm (still learning).
 - 📫 How to reach me coffeeaje0113@gmail.com
 
 <!---
